@@ -1,0 +1,270 @@
+[
+  {
+    "Name": "APBonusDamageToTowers",
+    "Hash": 168075747
+  },
+  {
+    "Name": "AzirIsChannelingPassive",
+    "Hash": 47750341
+  },
+  {
+    "Name": "AzirObelisk",
+    "Hash": 98779147
+  },
+  {
+    "Name": "AzirObeliskSound",
+    "Hash": 24666180
+  },
+  {
+    "Name": "AzirObeliskVOAlly",
+    "Hash": 120996649
+  },
+  {
+    "Name": "AzirObeliskVOEnemy",
+    "Hash": 57690937
+  },
+  {
+    "Name": "AzirPassiveUnavailable",
+    "Hash": 40110821
+  },
+  {
+    "Name": "AzirRDamage",
+    "Hash": 147793733
+  },
+  {
+    "Name": "AzirRPushedBraum",
+    "Hash": 37277789
+  },
+  {
+    "Name": "AzirTowerClick",
+    "Hash": 226598875
+  },
+  {
+    "Name": "AzirTowerClickChannel",
+    "Hash": 33540732
+  },
+  {
+    "Name": "Blind",
+    "Hash": 6893636
+  },
+  {
+    "Name": "Chilled",
+    "Hash": 166736596
+  },
+  {
+    "Name": "CrestBigMarker",
+    "Hash": 116539282
+  },
+  {
+    "Name": "CrestoftheAncientGolem",
+    "Hash": 75222813
+  },
+  {
+    "Name": "CrestoftheAncientGolemAura",
+    "Hash": 254277441
+  },
+  {
+    "Name": "CrestOfTheAncientGolemLines",
+    "Hash": 42293299
+  },
+  {
+    "Name": "Destealth",
+    "Hash": 178989416
+  },
+  {
+    "Name": "DisconnectTimer",
+    "Hash": 52223090
+  },
+  {
+    "Name": "ExpirationTimer",
+    "Hash": 55715282
+  },
+  {
+    "Name": "ExpirationTimerNoGhost",
+    "Hash": 41929572
+  },
+  {
+    "Name": "ExpirationTimerRendered",
+    "Hash": 175051364
+  },
+  {
+    "Name": "FortifyBuff",
+    "Hash": 263385702
+  },
+  {
+    "Name": "FortifyCheck",
+    "Hash": 187658603
+  },
+  {
+    "Name": "GlobalCannotClickObjects",
+    "Hash": 193424563
+  },
+  {
+    "Name": "GlobalDummyKnockback",
+    "Hash": 217907643
+  },
+  {
+    "Name": "GlobalEmptyBuff",
+    "Hash": 37215670
+  },
+  {
+    "Name": "GlobalIsAirborne",
+    "Hash": 135168885
+  },
+  {
+    "Name": "GlobalRecallFacingSouth",
+    "Hash": 261396904
+  },
+  {
+    "Name": "GlobalRespawnAnim",
+    "Hash": 9607965
+  },
+  {
+    "Name": "GlobalStealthScreenTint",
+    "Hash": 6204372
+  },
+  {
+    "Name": "GlobalWallPush",
+    "Hash": 93059496
+  },
+  {
+    "Name": "GrievousWound",
+    "Hash": 35891012
+  },
+  {
+    "Name": "Haste",
+    "Hash": 7244453
+  },
+  {
+    "Name": "IfHasBuffCheck",
+    "Hash": 2192603
+  },
+  {
+    "Name": "Internal_50MS",
+    "Hash": 140005491
+  },
+  {
+    "Name": "ItemTiamatLock",
+    "Hash": 156212507
+  },
+  {
+    "Name": "KalistaPChannel",
+    "Hash": 183414108
+  },
+  {
+    "Name": "KalistaPSpellCast",
+    "Hash": 51077572
+  },
+  {
+    "Name": "KalistaRAllyDash",
+    "Hash": 59914440
+  },
+  {
+    "Name": "KalistaRAllyDashCantCast0",
+    "Hash": 103111184
+  },
+  {
+    "Name": "KalistaRAllyDashCantCast1",
+    "Hash": 103111185
+  },
+  {
+    "Name": "KalistaRAllyDashCantCast2",
+    "Hash": 103111186
+  },
+  {
+    "Name": "KalistaRAllyDashCantCast3",
+    "Hash": 103111187
+  },
+  {
+    "Name": "KarthusDeathDefied",
+    "Hash": 86633956
+  },
+  {
+    "Name": "MasterAttackSpeedBuff",
+    "Hash": 191646358
+  },
+  {
+    "Name": "MasterySiegeCommanderDebuff",
+    "Hash": 260872790
+  },
+  {
+    "Name": "MoveAway",
+    "Hash": 114002633
+  },
+  {
+    "Name": "PetCommanded",
+    "Hash": 89972948
+  },
+  {
+    "Name": "PetCommandParticle",
+    "Hash": 231086373
+  },
+  {
+    "Name": "PoppyBasicAttack2",
+    "Hash": 121995522
+  },
+  {
+    "Name": "PoppyCritAttack",
+    "Hash": 234113019
+  },
+  {
+    "Name": "PositiveChampionDelta",
+    "Hash": 128425617
+  },
+  {
+    "Name": "RecallEnds",
+    "Hash": 137711395
+  },
+  {
+    "Name": "Root",
+    "Hash": 497252
+  },
+  {
+    "Name": "Slow",
+    "Hash": 500583
+  },
+  {
+    "Name": "SRU_Turret_Laser_Audio",
+    "Hash": 144769727
+  },
+  {
+    "Name": "Stealth",
+    "Hash": 179012568
+  },
+  {
+    "Name": "Stun",
+    "Hash": 502718
+  },
+  {
+    "Name": "Suppression",
+    "Hash": 145774894
+  },
+  {
+    "Name": "ThreeSisters",
+    "Hash": 262481747
+  },
+  {
+    "Name": "ThreeSistersKillCount",
+    "Hash": 22876644
+  },
+  {
+    "Name": "ThreeSistersRecentDamage",
+    "Hash": 260737749
+  },
+  {
+    "Name": "UnlockAnimation",
+    "Hash": 224576590
+  },
+  {
+    "Name": "UrgotSwapMissile",
+    "Hash": 112693429
+  },
+  {
+    "Name": "UrgotSwapMissile2",
+    "Hash": 192482274
+  },
+  {
+    "Name": "XerathMageChainsRoot",
+    "Hash": 84525764
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "Name": "Aggro",
+    "Hash": 6807183
+  },
+  {
+    "Name": "AzirSoldier",
+    "Hash": 172736338
+  },
+  {
+    "Name": "BaronMinionAI",
+    "Hash": 147276073
+  },
+  {
+    "Name": "Bot",
+    "Hash": 26980
+  },
+  {
+    "Name": "EndOfGame",
+    "Hash": 190626933
+  },
+  {
+    "Name": "EndOfGameCheat",
+    "Hash": 118235204
+  },
+  {
+    "Name": "H28GEvolutionTurret",
+    "Hash": 182381620
+  },
+  {
+    "Name": "Hero",
+    "Hash": 453775
+  },
+  {
+    "Name": "Idle",
+    "Hash": 457509
+  },
+  {
+    "Name": "Leashed",
+    "Hash": 45653700
+  },
+  {
+    "Name": "LuluFairyAI",
+    "Hash": 202595529
+  },
+  {
+    "Name": "MalzaharVoidling",
+    "Hash": 92577751
+  },
+  {
+    "Name": "Minion",
+    "Hash": 121655390
+  },
+  {
+    "Name": "MinionOdin",
+    "Hash": 6560430
+  },
+  {
+    "Name": "MinionReverse",
+    "Hash": 214552501
+  },
+  {
+    "Name": "Pet",
+    "Hash": 30404
+  },
+  {
+    "Name": "Poro",
+    "Hash": 489103
+  },
+  {
+    "Name": "RiverCrab",
+    "Hash": 214487410
+  },
+  {
+    "Name": "StormIdle",
+    "Hash": 110330261
+  },
+  {
+    "Name": "TaskBuyItem",
+    "Hash": 162955437
+  },
+  {
+    "Name": "TaskCastSpell",
+    "Hash": 3175388
+  },
+  {
+    "Name": "TaskDefendStructure",
+    "Hash": 267656437
+  },
+  {
+    "Name": "TaskKillHero",
+    "Hash": 161107615
+  },
+  {
+    "Name": "TaskKillMinion",
+    "Hash": 194926542
+  },
+  {
+    "Name": "TaskKillTower",
+    "Hash": 162614354
+  },
+  {
+    "Name": "TaskPushLane",
+    "Hash": 188188213
+  },
+  {
+    "Name": "TaskRetreat",
+    "Hash": 145818020
+  },
+  {
+    "Name": "TaskWander",
+    "Hash": 47309410
+  },
+  {
+    "Name": "TempMinionAI",
+    "Hash": 165946185
+  },
+  {
+    "Name": "Turret",
+    "Hash": 129800388
+  },
+  {
+    "Name": "UncontrollablePet",
+    "Hash": 39317380
+  },
+  {
+    "Name": "YorickPHPet",
+    "Hash": 178691636
+  },
+  {
+    "Name": "Zone",
+    "Hash": 529989
+  }
+]

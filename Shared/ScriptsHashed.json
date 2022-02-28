@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "AIComponentSystem",
+    "Hash": 264444045
+  },
+  {
+    "Name": "EventSystem",
+    "Hash": 198993645
+  },
+  {
+    "Name": "Minions",
+    "Hash": 67438115
+  },
+  {
+    "Name": "RiverRegions",
+    "Hash": 254626499
+  },
+  {
+    "Name": "Spawning",
+    "Hash": 109988327
+  }
+]
